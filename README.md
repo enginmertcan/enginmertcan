@@ -1,14 +1,43 @@
-# 👋 Hi, I’m @enginmertcan
+# 👋 Hey, I’m Mertcan Engin (@enginmertcan)
 
-- 👀 I’m interested in frontend development, with a focus on **React**, **Next.js**, and **TypeScript**. I also have experience working with **Chakra UI**, **Firebase**, and **Cypress** for end-to-end testing.
-- 🌱 I’m currently deepening my knowledge of **Next.js** and improving my skills in **TypeScript** while building scalable web applications.
-- 💞️ I’m looking to collaborate on open-source projects that involve **React**, **Next.js**, or anything related to modern web development frameworks.
-- 📫 How to reach me: Feel free to contact me via engin.mertcan2002@gmail.com
+- 🔭 Right now I’m building Vue 3 dashboards that talk to Spring Boot APIs, then hardening the same domain rules on the backend.
+- 🌱 Actively sharpening advanced Next.js + TypeScript patterns (App Router, server actions, Clerk auth) and keeping my Spring Security/Data JPA muscle strong.
+- 🤝 Happy to collaborate on Vue/Spring platforms, Next.js products, or AI-driven tools where TypeScript + Python services work together.
+- 📫 Reach me at engin.mertcan2002@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love solving challenging problems, especially when they involve testing or optimizing performance in web apps.
+- ⚡ Fun fact: I enjoy profiling entire flows—from Cypress specs to JVM traces—to squeeze out a few more ms.
 
-# 💫 About Me:
-🔭 I’m currently working on A meeting reservation application with Clerk for authentication and Material UI for UI components.<br>An AI-based travel planner project that recommends personalized travel itineraries based on user preferences.<br>👯 I’m looking to collaborate on AI-driven web applications that utilize React, Next.js, and TypeScript.<br>Open-source projects related to scheduling or travel planning.<br>
+## 🚀 Featured Projects
+
+1. **Lecture Management Platform** · [`lecture-portal`](https://github.com/enginmertcan/lecture-portal) + [`api`](https://github.com/enginmertcan/api)  
+   Vue 3 + Pinia frontend that drives login/registration, multi-role dashboards, lecture/classroom CRUD, schedule grids, enrollments, grade components, and user admin—all backed by a Spring Boot REST API with seeded roles and demo data for instant testing (`lecture-portal/README.md`, `api/src/main/java/com/mertcanengin/api/bootstrap/SampleDataService.java`).  
+   *Stack:* Vue 3, Vite, Axios interceptors, Pinia, Tailwind-style utilities, Spring Boot 3, JWT security, JPA, Railway.
+
+2. **AI Traveller Web** · [`aitraveller`](https://github.com/enginmertcan/aitraveller)  
+   Next.js 15 App Router experience for planning trips: Clerk-secured auth, Material UI theming, budgeting modules, trip timelines, PDF exports, Firebase persistence, and serverless routes that proxy Google Places + Generative AI/OpenAI prompts for itinerary intelligence (`aitraveller/package.json`, `src/app/api/places/search/route.ts`).  
+   *Stack:* Next.js, TypeScript, Clerk, MUI, Zustand, Google Gen AI, OpenAI, Firebase, Tailwind merge utilities, custom API routes. Python notebooks/services feed the itinerary scorers when I need deeper data-crunching.
+
+3. **AI Traveller Mobile** · [`AITravellerMobile`](https://github.com/enginmertcan/AITravellerMobile)  
+   Companion Expo/React Native app with Clerk auth, geolocation, Google Places autocomplete, React Native Maps, calendar sync, Firebase storage, and AI-powered recommendations (OpenAI + Google Gen AI) for on-the-go planning (`AITravellerMobile/package.json`).  
+   *Stack:* Expo Router, TypeScript, Clerk Expo, Firebase, React Navigation, Native maps & charts, Jest/Jest-Expo.
+
+4. **Streaming Experience Clone** · [`NetflixClone`](https://github.com/enginmertcan/NetflixClone)  
+   Next.js 14 + TypeScript build with NextAuth, Prisma/PostgreSQL, Swiper carousels, SWR fetching, Zustand UI state, and Tailwind styling. Includes secure auth flows, server-side content fetching, and reusable media cards (`NetflixClone/movie/package.json`, `NetflixClone/package.json`).
+
+
+## 🧰 Toolbox
+
+- **Frontend:** Vue 3, Vite, Pinia, Next.js (App/Pages routers), React Native/Expo, Material UI, Tailwind, Chakra, Zustand, SWR.
+- **Backend:** Spring Boot, Spring Security, Data JPA, Prisma, RESTful Node services, serverless functions.
+- **AI & Data:** OpenAI + Google Generative AI SDKs, Firebase, PDF/HTML rendering, and Python scripts for itinerary scoring, data wrangling, and quick ML experiments.
+- **Testing:** Cypress (custom reporters & plugins).
+- **Tooling:** PNPM/NPM workspaces, GitHub Actions, Husky/pre-commit linting, Docker/Railway for quick deploys.
+
+## 💬 Let’s Collaborate
+
+Interested in Vue/Spring consoles, Next.js SaaS, AI-enhanced travel or scheduling tools, or hardening test automation suites? I’d love to pair up—shoot me an email or open an issue!
+
+
 
 
 
@@ -18,13 +47,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=enginmertcan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=enginmertcan&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=enginmertcan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=enginmertcan&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
----
-[![](https://visitcount.itsvg.in/api?id=enginmertcan&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
